@@ -1,11 +1,17 @@
 <h1 align="center">🧑🏽‍💻 Gladyson Rhuan</h1>
 
-<div align="center"">
+<div align="left"">
 <p align="center"> Olá, meu nome é Gladyson e vou falar um pouco sobre minha trajetória.
 
-Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela área. À medida que fui adquirindo conhecimento, meu envolvimento com a programação se intensificou, o que me levou a cursar Ciência da Computação na UNIFUCAMP. Apesar de não ser uma das instituições mais renomadas, estou aproveitando bem a formação.
+Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela área.
+À medida que fui adquirindo conhecimento, meu envolvimento com a programação se intensificou,
+o que me levou a cursar Ciência da Computação na UNIFUCAMP. Apesar de não ser uma das instituições
+mais renomadas, estou aproveitando bem a formação.
 
-Tenho preferência por estudar de forma autodidata, buscando sempre aprender coisas novas. Tenho maior afinidade com o desenvolvimento backend, pois me interesso pela lógica, funcionamento interno dos sistemas e pela estrutura do código. Embora também tenha contato com o frontend, meu foco está mais voltado para as tecnologias e práticas do backend.</p>
+Tenho preferência por estudar de forma autodidata, buscando sempre aprender coisas novas.
+Tenho maior afinidade com o desenvolvimento backend, pois me interesso pela lógica, funcionamento
+interno dos sistemas e pela estrutura do código. Embora também tenha contato com o frontend, meu 
+foco está mais voltado para as tecnologias e práticas do backend.</p>
 
 </div>
 
