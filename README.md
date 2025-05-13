@@ -1,7 +1,8 @@
 <h1 align="center">🧑🏽‍💻 Gladyson Rhuan</h1>
 
 <div align="left"">
-<p align="center"> Olá, meu nome é Gladyson e vou falar um pouco sobre minha trajetória.
+  
+<p> Olá, meu nome é Gladyson e vou falar um pouco sobre minha trajetória.
 
 Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela área.
 À medida que fui adquirindo conhecimento, meu envolvimento com a programação se intensificou,
