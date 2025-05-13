@@ -1,6 +1,6 @@
 <h1 align="center">🧑🏽‍💻 Gladyson Rhuan</h1>
 
-<div align="center" style="text-align: justify; width: 75%;">
+<div align="center"">
 <p align="center"> Olá, meu nome é Gladyson e vou falar um pouco sobre minha trajetória.
 
 Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela área. À medida que fui adquirindo conhecimento, meu envolvimento com a programação se intensificou, o que me levou a cursar Ciência da Computação na UNIFUCAMP. Apesar de não ser uma das instituições mais renomadas, estou aproveitando bem a formação.
