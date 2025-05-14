@@ -53,9 +53,9 @@
 
 ###
 
-<br clear="both">
+<h2></h2>
 
----
+<br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=gRhuan&theme=discord&column=6&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
