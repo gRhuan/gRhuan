@@ -13,7 +13,7 @@
 ###
 
 <p align="center">Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela   <br>área, a medida que fui adquirindo conhecimento, meu envolvimento com a programação <br>se intensificou, 
-o que me levou a cursar Ciência da Computação na UNIFUCAMP. Embora também tenha contato com o frontend, meu foco está mais voltado para as tecnologias e práticas do backend.</p>
+o que me levou a cursar Ciência da Computação na UNIFUCAMP. Tenho maior afinidade com o desenvolvimento backend, com foco na lógica, estrutura de sistemas e organização do código, embora também tenha experiência com frontend.</p>
 
 ###
 
