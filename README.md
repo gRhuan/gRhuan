@@ -76,4 +76,10 @@
 
 ###
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@turbomaster95?theme=rule34" />
+</p>
+
+###
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7236c8&height=190&section=footer"/>
