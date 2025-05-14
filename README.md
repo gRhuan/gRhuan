@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7236c8&size=35&center=true&vCenter=true&width=1000&lines=Olá👋🏽,+Meu+nome+é+Gladyson+Rhuan;Eu+curso+Ciências+da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<img align="left" height="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNsMDlyOHNkOWVvYmVlMDhkeGdtbjZvYWF5cHdldmQwdzRicGFlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
+###
+
+<img align="left" height="240" style="border-radius: 50%; margin-right: 10px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNsMDlyOHNkOWVvYmVlMDhkeGdtbjZvYWF5cHdldmQwdzRicGFlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
 
