@@ -64,14 +64,4 @@ o que me levou a cursar Ciência da Computação na UNIFUCAMP. Embora também te
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gRhuan/gRhuan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gRhuan/gRhuan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gRhuan/gRhuan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7236c8&height=190&section=footer"/>
