@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7236c8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7236c8&size=35&center=true&vCenter=true&width=1000&lines=Olá👋🏽,+Meu+nome+é+Gladyson+Rhuan;Eu+curso+Ciências+da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+###
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f81f7&size=35&center=true&vCenter=true&width=1000&lines=Olá👋🏽,+Meu+nome+é+Gladyson+Rhuan..;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
 <br>
 <br>
 
@@ -23,7 +24,6 @@
   Tenho afinidade com o backend, gosto da lógica, estrutura e funcionamento dos sistemas. <br>
   Também atuo no frontend, mas meu foco principal está no desenvolvimento do servidor.
 </p>
-
 
 ###
 
@@ -76,4 +76,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7236c8&height=190&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=190&section=footer"/>
