@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="240" style="border-radius: 50%; margin-right: 10px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNsMDlyOHNkOWVvYmVlMDhkeGdtbjZvYWF5cHdldmQwdzRicGFlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
+<img align="left" height="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNsMDlyOHNkOWVvYmVlMDhkeGdtbjZvYWF5cHdldmQwdzRicGFlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela área. À medida que fui adquirindo conhecimento, meu envolvimento com a programação <br> se intensificou, 
+<p align="center">Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela <br>área, a medida que fui adquirindo conhecimento, meu envolvimento com a programação se intensificou, 
 o que me levou a cursar Ciência da Computação na UNIFUCAMP. Embora também tenha contato com o frontend, meu foco está mais voltado para as tecnologias e práticas do backend.</p>
 
 ###
