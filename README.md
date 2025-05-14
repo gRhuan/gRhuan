@@ -22,7 +22,7 @@
   Com o passar do tempo, meu envolvimento com a programação cresceu bastante, <br>
   o que me levou a cursar Ciência da Computação na UNIFUCAMP, onde sigo aprendendo. <br><br>
   Tenho afinidade com o backend, gosto da lógica, estrutura e funcionamento dos sistemas. <br>
-  Também atuo no frontend, mas meu foco principal está no desenvolvimento do servidor.
+  Também atuo no frontend, mas meu foco principal está no desenvolvimento do backend.
 </p>
 
 ###
