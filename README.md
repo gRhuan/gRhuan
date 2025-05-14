@@ -77,7 +77,7 @@
 ###
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@turbomaster95?theme=rule34" />
+  <img src="https://count.getloli.com/get/@gRhuan?theme=rule34" />
 </p>
 
 ###
