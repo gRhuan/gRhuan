@@ -14,13 +14,11 @@
 
 <p align="center">
   Iniciei na programação por hobby e, com o tempo, desenvolvi um grande interesse pela área. <br>
-  À medida que fui aprendendo, meu envolvimento com a programação se intensificou naturalmente, <br>
-  isso me motivou a cursar Ciência da Computação na UNIFUCAMP, onde continuo minha jornada. <br>
+  À medida que aprendi mais, meu envolvimento com a programação cresceu de forma natural. <br>
+  Isso me motivou a cursar Ciência da Computação na UNIFUCAMP, onde continuo minha jornada. <br><br>
   Tenho afinidade com o desenvolvimento backend, com foco na lógica e estrutura dos sistemas. <br>
-  Também tenho experiência com frontend, mas meu interesse principal está no backend.
+  Também possuo experiência com frontend, mas meu interesse principal está no backend.
 </p>
-
-
 
 ###
 
